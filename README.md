@@ -11,3 +11,5 @@
 # Pagination
 * http://localhost:3000/products?_page=1
 * http://localhost:3000/products?_page=1&_limit=2
+# Operators
+*http://localhost:3000/products?price_gte=2000&price_lte=6000

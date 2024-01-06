@@ -1,1 +1,2 @@
-# json_server_demo
+# json_server_demo 
+* this will be practice repo for json server + react

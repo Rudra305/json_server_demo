@@ -8,3 +8,6 @@
 * http://localhost:3000/products?_sort=price
 * http://localhost:3000/products?_sort=price&_order=desc
 * http://localhost:3000/products?_sort=price,category&_order=desc,asc
+# Pagination
+* http://localhost:3000/products?_page=1
+* http://localhost:3000/products?_page=1&_limit=2

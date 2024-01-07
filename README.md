@@ -19,3 +19,12 @@
 * http://localhost:3000/products?q=in
 # Relationships
 * http://localhost:3000/products?_embed=reviews
+* http://localhost:3000/products/1?_embed=reviews
+* http://localhost:3000/reviews?_expand=product
+* http://localhost:3000/reviews/1?_expand=product
+# Post Request
+* http://localhost:3000/products
+# PUT, PATCH and DELETE Request
+
+
+To generate random data we can use libraries such as Faker, casual and chancejs 

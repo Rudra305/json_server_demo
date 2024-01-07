@@ -27,4 +27,7 @@
 # PUT, PATCH and DELETE Request
 
 
-To generate random data we can use libraries such as Faker, casual and chancejs 
+To generate random data we can use libraries such as 
+* Faker => https://fakerjs.dev/api/
+* casual => https://www.npmjs.com/package/casual
+* chancejs => https://chancejs.com/

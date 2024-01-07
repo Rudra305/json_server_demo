@@ -15,3 +15,7 @@
 * http://localhost:3000/products?price_gte=2000&price_lte=6000
 * http://localhost:3000/products?id_ne=1
 * http://localhost:3000/products?category_like=^f
+# Full text Search 
+* http://localhost:3000/products?q=in
+# Relationships
+* http://localhost:3000/products?_embed=reviews
